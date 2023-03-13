@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{
+    font-family: Helvetica;
+    background-color: lightslategray;
+
+}
+
+.container{
+    padding: 50px;
+    background-color: lightslategray;
+
+}
+
+.center {
+  text-align: center;
+  border: 3px solid white;
+}
+
+
+input[type=text], input[type=password], textarea{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background-image: "img/bg-gray.png";
+
+}
+input[type=text]:focus, input[type=password]:focus {
+    background-color: white;
+    outline: none;
+}
+
+ div{
+       padding: 10px 0;
+     }
+ hr{
+  border: 1px solid white;
+  margin-bottom: 25px;
+ 
+ }
+ .registerbtn{
+    background-color: pink;
+    color: red;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+
+ }
+ .registerbtnhover{
+    opacity: 1;
