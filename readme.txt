@@ -1,11 +1,10 @@
 Account
 =======================
-Username : admin
-Password : admin
+Admin
+usn : tigusavoice
+psw : ochigu
 
-Username : petugas
-Password : petugas
-
-Username : masyarakat
-Password : masyarakat
+Petugas
+usn : Nana7
+psw : 6969
 =======================
